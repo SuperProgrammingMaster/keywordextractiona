@@ -1,3 +1,4 @@
+#버그가 있어 작동은 안될거에요
 import torch
 import torch.nn as nn
 import torch.optim as optim
